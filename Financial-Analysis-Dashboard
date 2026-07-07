@@ -1,0 +1,39 @@
+# Financial Analysis Dashboard
+
+## Overview
+
+An interactive Power BI dashboard designed to analyze financial transactions, customer segments, taxes, fees, and transaction performance.
+
+## Tools Used
+
+- Power BI
+- DAX
+- Power Query
+- Excel (Data Source)
+
+## Dashboard Features
+
+- KPI Cards
+- Monthly Trend Analysis
+- Customer Segment Analysis
+- Transaction Status
+- State-wise Analysis
+- Gender Analysis
+- Dynamic Slicers
+
+## KPIs
+
+- Total Amount
+- Total Transactions
+- Average Transaction Value
+- Total Fees
+- Total Tax
+
+## Skills Demonstrated
+
+- Data Modeling
+- Power Query Transformations
+- DAX Measures
+- Interactive Dashboard Design
+- Conditional Formatting
+- Slicers & Filters
